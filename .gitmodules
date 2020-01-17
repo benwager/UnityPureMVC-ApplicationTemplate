@@ -1,0 +1,3 @@
+[submodule "Assets/Source/Purple/Core"]
+	path = Assets/Source/Purple/Core
+	url = https://github.com/benwager/UnityPureMVC-Core
