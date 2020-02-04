@@ -1,0 +1,6 @@
+[submodule "Assets/Source/UnityPureMVC/Core"]
+	path = Assets/Source/UnityPureMVC/Core
+	url = https://github.com/benwager/UnityPureMVC-Core
+[submodule "Assets/Source/UnityPureMVC/Modules/DataLoader"]
+	path = Assets/Source/UnityPureMVC/Modules/DataLoader
+	url = https://github.com/benwager/UnityPureMVC-Modules-DataLoader
