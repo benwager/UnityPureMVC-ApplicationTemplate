@@ -36,7 +36,7 @@ namespace UnityPureMVC.Application.View.Mediators
         }
 
         /// <summary>
-        /// Handle main environment scene loaded
+        /// Handle application ready
         /// </summary>
         protected override void OnApplicationReady()
         {
